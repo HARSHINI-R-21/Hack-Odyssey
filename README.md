@@ -3,7 +3,7 @@
 > **Tagline**: *"Evidence-Driven Adaptive Career Intelligence"*  
 > **Hackathon**: Hack Odyssey 
 > **Category**: Software  
-> **Team**: Brainbolt  
+> **Team**: Aevyron  
 
 ---
 
