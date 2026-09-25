@@ -1,0 +1,31 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*$py.class
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+fvenv/
+.venv/
+env/
+ENV/
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
