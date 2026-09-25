@@ -1,8 +1,7 @@
 # SkillBridge – Academia–Industry Portal
 
 > **Tagline**: *"Evidence-Driven Adaptive Career Intelligence"*  
-> **Hackathon**: Smart India Hackathon 2026  
-> **Problem Statement ID**: PS26044  
+> **Hackathon**: Hack Odyssey 
 > **Category**: Software  
 > **Team**: Brainbolt  
 
